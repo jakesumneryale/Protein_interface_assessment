@@ -1,0 +1,16 @@
+Complex,Chains,Cat.,PDB ID 1,Protein 1,PDB ID 2,Protein 2,I-RMSD,ASA
+1FLE,E:I,EI,9EST_A,Elastase,2REL_A(4),Elafin,1.02,1763
+2A5T,A:B,OX,1Y20_A,NMDA receptor R1-4A subunit ligand-binding core,2A5S_A,NMDA receptor R2A subunit ligand-binding core,1.28,1892
+2OZA,B:A,OX,3HEC_A,MAP kinase 14,3FYK_X,MAP kinase-activated protein kinase 2,1.89,6248
+2HRK,A:B,OX,2HRA_A,Glutamyl-t-RNA synthetase,2HQT_A,GU-4 nucleic binding protein,2.03,1595
+2Z0E,A:B,ER,2D1I_A,Cysteine protease Atg4B,1V49_A(1),Microtubule-associated proteins 1A/1B light chain 3B,2.15,2478
+1ZLI,A:B,EI,1KWM_A,Carboxypeptidase B,2JTO_A(6),Tick carboxypeptidase inhibitor,2.53,2084
+2C0L,A:B,OX,1FCH_A,PTS1 and TRP region of PEX5,1C44_A,SCP2,2.62,2013
+1BKD,R:S,OG,1CTQ_A,Ras GTPase,2II0_A,Son of sevenless,2.86,3163
+2O3B,A:B,EI,1ZM8_A,NucA nuclease,1J57_A,NuiA nuclease inhibitor,3.13,1675
+1ATN,A:D,OX,1IJJ_B,Actin,3DNI_,Dnase I,3.28,1774
+1FQ1,A:B,ES,1B39_A,CDK2 kinase,1FPZ_F,CDK inhibitor 3,3.41,1832
+1R8S,A:E,OG,1HUR_A,Arf1 GTPase,1R8M_E,Sec 7 domain,3.73,2986
+1ACB,E:I,EI,2CGA_B,Chymotrypsin,1EGL_,Eglin C,2.26,1544
+3K9P,A:B,,3E46_A,,1AAR_A,,,
+1UGH,E:I,,1AKZ_A,,2UGI_A,,0.7,
