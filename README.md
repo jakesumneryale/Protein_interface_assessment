@@ -1,4 +1,4 @@
-This is the code for the manuscript: "Assessment of scoring functions for computational models of protein-protein interfaces" By Jacob Sumner et al. first submitted in July 2024. 
+This is the code for the manuscript: "Assessment of scoring functions for computational models of protein-protein interfaces" By Jacob Sumner and Naomi Brandt et al. submitted in December 2025. 
 
 The folders in this repository contain the following scripts and code: 
 
@@ -13,6 +13,7 @@ The models are then uniformly sampled using the script "filter_decoys_supersampl
 The uniformly sampled models are then scored for ZRank2, ITScorePP, Rosetta, PyDock, and VoroMQA using the script "score_all_sampled_decoys.py"
 
 Physical features were generated using the scripts "physical_scoring_contacts_flatness.py" and "relative_interface_area_enum.py", to calculate the contacts, interface separability, and relative interface surface area. 
+
 
 
 
